@@ -1,0 +1,8 @@
+*.pyc
+*.retry
+*.DS_Store
+.vscode
+*dist
+*__pycache__
+week_of_year.egg-info
+*build
